@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://anna.webart.work/sitemap.xml
+Sitemap: https://anna.hotelup.work/sitemap.xml
